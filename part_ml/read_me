@@ -1,0 +1,1 @@
+In order to run this file named development_ml.ipynb, we must have a folder named dataset (which stores all the batches of the dataset as obtained while downloading it) in the same directory.
